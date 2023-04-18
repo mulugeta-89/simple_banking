@@ -57,7 +57,7 @@
                 <label >Balance</label>
                 <input type="number" class="form-control"  placeholder="Enter The Balance" name="balance" autocomplete="off">
             </div>
-            <button type="submit" class="btn btn-primary" name="submit">Submit</button>
+            <button type="submit" class="btn btn-primary" style="padding: 9px 20px;" name="submit">Submit</button>
         </form>
     </div>
 
